@@ -35,5 +35,5 @@ setup(
     ],
     keywords='pinpayments pin payments',
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
-    install_requires=['requests>=2.5.4.1'],
+    install_requires=['requests>=2.9.1'],
 )
